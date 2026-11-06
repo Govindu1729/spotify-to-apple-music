@@ -19,7 +19,7 @@ A **completely free** playlist migration tool that moves your Spotify playlists 
 
 ### Prerequisites
 
-- macOS (tested on macOS Sonoma/Sequoia)
+- macOS (tested on macOS Golden Gate)
 - Python 3.8 or higher
 - Active Apple Music subscription
 - Google Chrome or Chromium browser
