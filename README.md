@@ -3,7 +3,7 @@
 A **completely free** playlist migration tool that moves your Spotify playlists to Apple Music without requiring:
 - ❌ Spotify Premium account
 - ❌ Spotify API keys
-- ❌ Apple Developer account ($99/year)
+- ❌ Apple Developer account
 - ❌ Any third-party services
 
 ## ✨ Features
